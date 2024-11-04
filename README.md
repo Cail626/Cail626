@@ -3,3 +3,5 @@
 Hello! I am a fullstack developper currently managing a quantum computing package called [OpenVQE](https://github.com/OpenVQE/OpenVQE). Please check it if you have time! :)
 
 🗒️ We are currently searching for collaborator to help us improving our package. If you are interested in quantum computing and IA, feel free to reach me! :D
+
+![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=cail626&show_icons=true&theme=transparent)
