@@ -1,7 +1,10 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Cail626)
 
-Hello! I am a fullstack developper currently managing a quantum computing package called [OpenVQE](https://github.com/OpenVQE/OpenVQE). Please check it if you have time! :)
+## Welcome! I'm Nathan! 👋
 
-🗒️ We are currently searching for collaborator to help us improving our package. If you are interested in quantum computing and IA, feel free to reach me! :D
+I am a fulltime fullstack developper at a consulting company. I am intersted in quantum computing and IA.
+> Check out the project I work on [OpenVQE](https://github.com/OpenVQE/OpenVQE)! 
+
+🗒️ We are currently searching for collaborator to help us improving our package. If you are interested in quantum computing and IA, feel free to reach me! :D 
 
 ![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=cail626&show_icons=true&theme=transparent)
